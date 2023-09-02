@@ -36,8 +36,8 @@ export default function RootLayout({ children }: PropsWithChildren) {
       lang="en"
       className={clsx(
         "h-full scroll-smooth antialiased",
-        inter.className,
-        lexend.className
+        inter.variable,
+        lexend.variable
       )}
       suppressHydrationWarning
     >
