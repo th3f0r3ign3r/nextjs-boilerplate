@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col p-24">
+    <main className="p-24">
       <ModeToggle />
       <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl mt-6">
         Taxing Laughter: The Joke Tax Chronicles
